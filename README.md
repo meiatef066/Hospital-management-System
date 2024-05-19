@@ -10,3 +10,16 @@ https://github.com/meiatef066/Hospital-management-System/assets/120066705/575e66
 Technonlogy make our life more easer also Sava a time
  the idea of the project is a doctor could easy track Patient and view all patient Queue with out any help
 
+ ## UML 
+ ![uml](https://github.com/meiatef066/Hospital-management-System/assets/120066705/89afe3fe-d662-4906-bd86-1722b703213f)
+
+## Sequance for action Digram
+![image](https://github.com/meiatef066/Hospital-management-System/assets/120066705/ce19c928-dc07-4e78-8498-f999b3efca0c)
+
+##Database columns
+![Acrions](https://github.com/meiatef066/Hospital-management-System/assets/120066705/0e742e2c-7bab-484c-a9f5-4936541f64ca)
+
+#database relations
+![relation DB](https://github.com/meiatef066/Hospital-management-System/assets/120066705/dfa5cbda-dc3d-4831-ad84-bfcfaa6f2f9e)
+
+
