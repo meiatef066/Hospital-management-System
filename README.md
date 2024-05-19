@@ -21,6 +21,5 @@ Technonlogy make our life more easer also Sava a time
 ![Acrions](https://github.com/meiatef066/Hospital-management-System/assets/120066705/0e742e2c-7bab-484c-a9f5-4936541f64ca)
 
 ## database relations
-![relation DB](https://github.com/meiatef066/Hospital-management-System/assets/120066705/dfa5cbda-dc3d-4831-ad84-bfcfaa6f2f9e)
-
+![relation DB](https://github.com/meiatef066/Hospital-management-System/assets/120066705/29fc5ed8-9e78-4666-a351-4aa5d4fb2423)
 
