@@ -16,7 +16,7 @@ Technonlogy make our life more easer also Sava a time
 ## Database columns
 ![columns DB](https://github.com/meiatef066/Hospital-management-System/assets/120066705/ce19c928-dc07-4e78-8498-f999b3efca0c)
 
-## Sequance for action Digram
+## flow for action 
 
 ![Acrions](https://github.com/meiatef066/Hospital-management-System/assets/120066705/0e742e2c-7bab-484c-a9f5-4936541f64ca)
 
